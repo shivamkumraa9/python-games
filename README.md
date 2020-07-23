@@ -4,7 +4,7 @@
 <img src="Shots/snake.png" />
 
 <h1>Music Player</h1>
-<img src="Shots/music-player.png" />
+<img src="Shots/music-player.PNG" />
 
 <h1>Color Escape</h1>
-<img src="Shots/color-escape.png" />
+<img src="Shots/color-escape.PNG" />
