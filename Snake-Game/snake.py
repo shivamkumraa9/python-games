@@ -1,3 +1,4 @@
+#snake game
 import pygame
 import random
 import sys
